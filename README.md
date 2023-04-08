@@ -1,16 +1,12 @@
 # Hello World, my name is Feras Hannun. I am a Data Scientist heavily focused on Power BI and coding in Python and SQL.
 
 
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fhannun)
+## 🚀 About Me
+I am a Data Scientist focused primarily on Power BI, Python, R, SQL
 
 
 ## 🛠 Skills
 Power BI, Python, R, SQL
-
-
-## 🚀 About Me
-I am a Data Scientist focused primarily on Power BI, Python, R, SQL
 
 
 About me:
@@ -35,3 +31,6 @@ About me:
 - [Data Science Research Methods: Python Edition](https://www.credly.com/badges/585df91d-a7ec-471b-b356-ac746eb7b93c)
 - [Machine Learning: Data Science Project](https://www.credly.com/badges/ca30a7cf-3ebd-40fd-8225-377e2e7cf591)
 - [Application of Machine Learning: Python Implementations](https://www.credly.com/badges/d85c4e8b-8321-4a93-bf37-5272e48ec27f)
+
+## 🔗 Links - Feel free to reach out to me!
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fhannun)
