@@ -9,7 +9,7 @@ I am a Data Scientist focused primarily on Power BI, Python, R, SQL
 Power BI, Python, R, SQL
 
 
-About me:
+## About me:
 
 👩‍💻 I'm currently working on SQL
 
