@@ -1,4 +1,4 @@
-# Hello World, my name is Feras Hannun. I am a recent graduate of a Data Scientist & Analytics bootcamp
+# Hello World, my name is Feras Hannun. I am a recent graduate of a Data Science & Analytics bootcamp
 
 
 ## 🚀 My experience
